@@ -1,0 +1,3 @@
+include README.md
+recursive-include src/TextSummarizer *.yaml *.yml *.json
+recursive-include src/TextSummarizer *.txt
